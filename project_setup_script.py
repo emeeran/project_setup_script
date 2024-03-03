@@ -10,7 +10,7 @@ def create_project():
     project_name = input("Enter the project directory name: ")
 
     # Step 3: Sub-directories to be hard coded
-    subdirectories = ["doc", "src", "data", "notes", "utils"]
+    subdirectories = ["doc", "src", "data", "notes", "utils", "img"]
 
     # Step 4: Files to be created
     files_to_create = [
